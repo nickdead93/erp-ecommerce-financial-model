@@ -19,4 +19,4 @@ O objetivo não foi apenas desenhar um esquema de E-commerce genérico, mas sim 
 ## 📊 Arquivos
 * `README.md`: Documentação executiva das regras de negócio.
 * `schema_financeiro.sql`: DDL com a estrutura das tabelas simulando o ERP.
-* *(Se você criar o diagrama no Draw.io, faça o upload da imagem e cite ela aqui).*
+* *Diagrama.drawio.png*
